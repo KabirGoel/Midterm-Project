@@ -1,18 +1,19 @@
 body {
   font-family: Georgia, "Times New Roman",
         Times, serif;
-  background-color: #0000ff}
+  background-color: #000000}
 
-h1 {color: aqua;
+h1 {color: #ffffff;
   font-family: Helvetica, Geneva, Arial,
         SunSans-Regular, sans-serif; font-weight: bold }
 
-h2 {font-size: 48; font-weight:bold; color:#3399ff; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif}
+h2 {font-size: 48; font-weight:bold; color:#ffffff; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif}
 
-h3 {color: aqua;
+h3 {color: #ffffff;
         font-family: Helvetica, Geneva, Arial,
               SunSans-Regular, sans-serif }
 
-p  {color:#3399ff; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif}
+p  {color:#ffffff; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif}
          
-a:link {color: aqua }
+a:link {color: blue }
+a:visited {color: blue}
